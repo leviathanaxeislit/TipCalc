@@ -9,6 +9,11 @@ Clone the repo using Git and open in android studio
 ```bash
 git clone https://github.com/leviathanaxeislit/TipCalc.git
 ```
+## Screenshots
+
+<img src="https://i.imgur.com/F6poKwB.png" width=200 padding=50/> **Dark Theme**
+
+<img src="https://i.imgur.com/HzAhRWX.png" width=200 padding-left=500 /> **Light Theme**
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
